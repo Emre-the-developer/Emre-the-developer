@@ -1,4 +1,4 @@
-## Hi there 👋
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 <!--
 **Emre-the-developer/Emre-the-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
