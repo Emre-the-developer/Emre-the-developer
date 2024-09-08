@@ -1,6 +1,9 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emre-the-developer&show_icons=true&theme=tokyonight)
+
+
 ## 📟 - Tecnologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
