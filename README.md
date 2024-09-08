@@ -13,6 +13,7 @@
 
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
 <h3 align="left">Connect with me:</h3>
