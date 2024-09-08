@@ -17,7 +17,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.youtube.com/channel/UCiuhgJcbDGEAkzUJg0KJHUw](https://www.youtube.com/@Jugend_Informatik)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=BccXxCgmgm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
 </p>
 <br>
 
